@@ -5,6 +5,7 @@ Amazon Prime Video is one of the leading streaming platforms globally, offering 
 Objectives
 Data Exploration and Cleaning:
 
+
 The project begins with exploring the dataset, understanding its structure, and identifying any missing or inconsistent data.
 Data cleaning involves handling missing values, correcting data types, and ensuring that the dataset is ready for analysis.
 Content Categorization:
