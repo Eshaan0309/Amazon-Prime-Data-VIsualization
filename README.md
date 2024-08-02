@@ -3,6 +3,7 @@ Introduction
 Amazon Prime Video is one of the leading streaming platforms globally, offering a vast array of movies, TV shows, and original content. With thousands of titles available, analyzing this extensive catalog can provide valuable insights into various trends, patterns, and characteristics of the content offered on the platform. The goal of the Amazon Prime Video Titles Data Visualization project is to explore, analyze, and visualize the dataset of titles available on Amazon Prime Video, providing a comprehensive understanding of the content library and uncovering meaningful insights.
 
 Objectives
+
 Data Exploration and Cleaning:
 
 The project begins with exploring the dataset, understanding its structure, and identifying any missing or inconsistent data.
