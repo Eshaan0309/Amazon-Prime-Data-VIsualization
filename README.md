@@ -42,9 +42,10 @@ Visualization and Dashboard Development:
 Create interactive dashboards that allow users to explore the data and insights dynamically.
 Utilize visual elements such as bar charts, line graphs, heat maps, and word clouds to present data in an intuitive and engaging way.
 Ensure the visualization is accessible and provides a comprehensive view of the data, with options to filter and drill down into specific areas of interest.
+
 Tools and Technologies
-Data Processing: Python (Pandas, NumPy), SQL
-Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
-Dashboard Development: Tableau, Power BI, Streamlit
+Data Processing: Python (NumPy), SQL
+Visualization: Tableau, Power BI\
+Dashboard Development: Tableau, Power BI
 Data Storage: CSV, SQL Databases
-Interactive Features: Filters, drill-downs, and interactive charts
+Interactive Features: Filters and interactive charts
